@@ -26,7 +26,7 @@ Allows administrators to monitor devices.
 
 ### Installation 
 1. Clone the repository:
-git clone https://github.com/yourusername/Hazari.git**
+-git clone https://github.com/duaa24-eng/Hathari
 2. Navigate to the project directory:
 cd Hazari
 3. Install Flutter packages:
@@ -100,4 +100,5 @@ Hazari Team's leader
 Email: duaaa7839@gmail.com
 
 Project Repository:
-https://github.com/yourusername/Hazari**
+https://github.com/duaa24-eng/Hathari
+ https://github.com/duaa24-eng/Hathari.git
