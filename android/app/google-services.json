@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567338136072",
+    "project_id": "hathariapp",
+    "storage_bucket": "hathariapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567338136072:android:b4235873c2cdf5f39417bd",
+        "android_client_info": {
+          "package_name": "com.example.hathari_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GBodz9vjIVyW1d-BdM3rTdb3r4LVwUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
